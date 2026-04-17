@@ -1,0 +1,50 @@
+===== ALL EMAILS =====
+Total Emails: 35
+
+1. .user@gmail.com
+2. admin@company.org
+3. alpha.beta@gmail.com
+4. anas.afzal+github@gmail.com
+5. attacker@fake.com
+6. auto-gen_001@system.local
+7. auto-gen_002@system.local
+8. backup-email@domain.co
+9. backup.admin@company.com
+10. fake_user+spam@gmail.com
+11. feedback@site.com
+12. final.admin@company.com
+13. first@mail.com
+14. gamma_delta@yahoo.com
+15. hacker@tempmail.com
+16. helpdesk@service.net
+17. hr-department@company-name.com
+18. hr@alshifa.edu.pk
+19. info@service.net
+20. john.doe@gmail.com
+21. new_user123@outlook.com
+22. notify-me@updates.io
+23. notify_me@updates.io
+24. paypaI-support@gmail.com
+25. random.user@sub.domain.org
+26. sales-team@business.org
+27. second@mail.com
+28. security@company.com
+29. support.team@yahoo.com
+30. temp.user@temporary-mail.org
+31. test.user_1@gmail.com
+32. theta-123@outlook.com
+33. third@mail.com
+34. throwaway123@tempmail.com
+35. user.name+test123@gmail.com
+
+===== GMAIL ADDRESSES =====
+Total Gmail Addresses: 8
+
+1. .user@gmail.com
+2. alpha.beta@gmail.com
+3. anas.afzal+github@gmail.com
+4. fake_user+spam@gmail.com
+5. john.doe@gmail.com
+6. paypaI-support@gmail.com
+7. test.user_1@gmail.com
+8. user.name+test123@gmail.com
