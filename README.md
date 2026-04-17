@@ -20,10 +20,7 @@ This branch contains a Python script that extracts, sorts, and categorizes email
 - Data Processing
 
 ## How to Run
-1. Navigate to the `email_extractor` directory.
-   ```sh
-   cd email_extractor
-   ```
+1. Navigate to the directory.
 2. Run the script.
    ```sh
    python email_extractor.py
