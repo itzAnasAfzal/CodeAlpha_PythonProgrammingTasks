@@ -1,7 +1,7 @@
 import re
 
 # Step 1: Take file name from user
-filename = input("Enter file name: ")
+filename = input("Enter file name (with extension): ")
 
 try:
     # Step 2: Read file
@@ -22,9 +22,12 @@ try:
 
 
     # Step 7: Ask for Output file name
-    output_filename = input("Enter output file name (default: output.txt): ")
+    output_filename = input("Enter output file name (default: output): ")
     if not output_filename:
         output_filename = "output.txt"
+    else:
+        if not output_filename.endswith(".txt"):
+            output_filename += ".txt"
 
     # Step 8: Write results to output file
     with open(output_filename, "w") as out:
