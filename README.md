@@ -4,6 +4,7 @@ This repository contains a collection of Python projects developed as part of th
 - Procedural Programming
 - Functional/Modular Programming
 - Object-Oriented Programming (OOP)
+
 The goal of this repository is not just functionality, but to explore how different coding styles can be applied to real-world problems.
 
 ## Projects
